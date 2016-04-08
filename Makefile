@@ -1,5 +1,5 @@
 NAME=python2
-REGISTRY=jersub
+REGISTRY=881028211317.dkr.ecr.eu-west-1.amazonaws.com
 BASE_IMAGE=python:2
 TAG=$(REGISTRY)/$(NAME)
 
